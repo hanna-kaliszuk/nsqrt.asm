@@ -1,5 +1,6 @@
 # NSQRT
 An x86-64 assembly implementation of a function that computes the integer square root of a large non-negative number. The function is callable from C and supports numbers up to 256.000 bits. 
+Part of the Computere Architecture and Operating Systems course realized in the summer semester of 2024/25 at the University of Warsaw. 
 
 ## DESCRIPTION
 The function finds a non-negative `n`-bit integer `Q` such that:
