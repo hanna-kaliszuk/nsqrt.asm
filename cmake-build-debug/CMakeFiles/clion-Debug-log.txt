@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/hanan/CLionProjects/AKSO_SEM2/nsqrt Select CMakeLists.txt
